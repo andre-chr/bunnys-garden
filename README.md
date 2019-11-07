@@ -16,28 +16,35 @@ fun facts about the plant to help children gain more knowledge on the plants the
 
 ## Team Description
 This game is built by Team **Aztecs** which comprises of the following members:
-Andre Christian (me)
-Master of Data Science
-Expertise in: Data Wrangling, Data Visualization, Machine Learning Algorithms.
-Skills brought to this product: Front and Backend Development, Database Management.
 
-Frank Pei Wei
-Master of Network and Security
-Expertise in: Cyber Security, Network, Attacks, and Defences.
-Skills brought to this product: Server Configuration, Security for the application (SSL), Front End Development.
+|Name    | Andre Christian (me)   |
+|--------|:----------------------:|
+|Course                         | Master of Data Science |
+|Expertise in                   | Data Wrangling, Data Visualization, Machine Learning Algorithms |
+|Skills brought to this product | Front and Backend Development, Database Management |
 
-Harvey Hanwen Wang
-Master of Information Technology
-Expertise in: Front End Development, UI/UX Designing, Software Engineering, and Programming Skills.
-Skills brought to this product: Graphics Designing (Animations), Front End Development.
+|Name    | Frank Pei Wei   |
+|--------|:----------------------:|
+|Course                         | Master of Network and Security |
+|Expertise in                   | Cyber Security, Network, Attacks, and Defences |
+|Skills brought to this product | Server Configuration, Security for the application (SSL), Front End Development |
 
-Ingrid Xinzhou Yu
-Master of Information Technology
-Expertise in: Front End Development, Java and .Net Programming, Mobile Development.
-Skills brought to this product: Front End Development, User Experience skills, Creative Video Animations (Product Video/ Audio), Documentation Skills.
+|Name    | Harvey Hanwen Wang  |
+|--------|:----------------------:|
+|Course                         | Master of Information Technology |
+|Expertise in                   | Front End Development, UI/UX Designing, Software Engineering, and Programming Skills |
+|Skills brought to this product | Graphics Designing (Animations), Front End Development |
 
-Charlotte Katwa
-Master of Business Information Systems. 
-Expertise in: Project Management, System Analysis, and Design, UI/UX skills.
-Skills brought to this product: UI/UX skills, Documentation Skills, Business Analysis and Requirement Gathering.
+|Name    | Ingrid Xinzhou Yu  |
+|--------|:----------------------:|
+|Course                         | Master of Information Technology |
+|Expertise in                   | Front End Development, Java and .Net Programming, Mobile Development |
+|Skills brought to this product | Front End Development, User Experience skills, Creative Video Animations (Product Video/ Audio), Documentation Skills |
+
+|Name    | 
+Charlotte Katwa   |
+|--------|:----------------------:|
+|Course                         | Master of Business Information Systems |
+|Expertise in                   | Project Management, System Analysis, and Design, UI/UX skills |
+|Skills brought to this product | UI/UX skills, Documentation Skills, Business Analysis and Requirement Gathering |
 
